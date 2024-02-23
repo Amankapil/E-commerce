@@ -1,0 +1,39 @@
+<svg width="66" height="72" viewBox="0 0 66 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_15_293)">
+<rect x="0.799805" y="52.3963" width="51.6691" height="45.9281" rx="7.06586" transform="rotate(-90 0.799805 52.3963)" fill="url(#paint0_linear_15_293)"/>
+</g>
+<g filter="url(#filter1_b_15_293)">
+<rect x="19.1711" y="71.9158" width="51.6691" height="45.9281" rx="7.06586" transform="rotate(-90 19.1711 71.9158)" fill="white" fill-opacity="0.4"/>
+<rect x="19.3434" y="71.7436" width="51.3246" height="45.5836" rx="6.89363" transform="rotate(-90 19.3434 71.7436)" stroke="#FAA13D" stroke-width="0.344461"/>
+</g>
+<g style="mix-blend-mode:overlay">
+<rect x="26.0605" y="34.0252" width="32.1496" height="4.59281" rx="1.1482" fill="black"/>
+</g>
+<g style="mix-blend-mode:overlay">
+<rect x="26.0605" y="40.9144" width="32.1496" height="4.59281" rx="1.1482" fill="black"/>
+</g>
+<g style="mix-blend-mode:overlay">
+<rect x="26.0605" y="47.8036" width="32.1496" height="4.59281" rx="1.1482" fill="black"/>
+</g>
+<g style="mix-blend-mode:overlay">
+<rect x="26.0605" y="54.6928" width="32.1496" height="4.59281" rx="1.1482" fill="black"/>
+</g>
+<defs>
+<filter id="filter0_b_15_293" x="-16.4232" y="-16.4958" width="80.3742" height="86.1151" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="8.61151"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_15_293"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_15_293" result="shape"/>
+</filter>
+<filter id="filter1_b_15_293" x="1.94811" y="3.02371" width="80.3742" height="86.1151" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="8.61151"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_15_293"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_15_293" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_15_293" x1="26.6343" y1="52.3963" x2="26.6343" y2="98.3244" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FAC273"/>
+<stop offset="1" stop-color="#F99B33"/>
+</linearGradient>
+</defs>
+</svg>
